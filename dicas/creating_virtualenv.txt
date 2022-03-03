@@ -1,0 +1,6 @@
+entrar a pasta onde quer criar o venv
+no terminal os seguintes comandos:
+mkdir venv
+cd venv
+virtualenv -p python3 .
+source bin/activate
