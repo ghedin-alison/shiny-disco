@@ -1,0 +1,9 @@
+du -h /home - lista todos os arquivos e seus tamanhos em melhor formato pra cada diretório.
+du -h -s /home - exibe o tamanho inteiro do diretório
+rmdir -remove diretórios
+
+du -h /home - visualiza processos em andamento
+ps aux | grep ssh - visualiza todos os processos de ssh rodando no linux
+
+
+
